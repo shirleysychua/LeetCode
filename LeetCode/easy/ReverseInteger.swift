@@ -1,5 +1,7 @@
 import UIKit
 
+//Given a 32-bit signed integer, reverse digits of an integer.
+
 func reverse(_ x: Int) -> Int {
     var xCopy : Int = x
     var reversedInt : Int = 0

@@ -1,5 +1,7 @@
 import UIKit
 
+//Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+
 func isPalindrome(_ x: Int) -> Bool {
     var xCopy : Int = x
     var reversedInt : Int = 0
